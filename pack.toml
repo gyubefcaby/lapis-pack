@@ -1,0 +1,13 @@
+name = "Lapis Pack"
+author = "gyubefcaby"
+version = "0.0.1 beta"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a725062f941473a3912db0a6f6f3194c026a4596b45d49364ba8481473298831"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.6"
